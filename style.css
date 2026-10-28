@@ -579,53 +579,53 @@ border-color: #2585b8;
 background: #2585b8;
 color: white;
 }
-/* Mobile Responsive Design */
+/* ===== Mobile Responsive Design ===== */
 @media screen and (max-width: 768px) {
+
+    body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    /* Home Section */
     .hero {
-        min-height: 85vh;
+        min-height: 80vh;
         padding: 40px 20px;
         box-sizing: border-box;
         display: flex;
-        justify-content: center;
         align-items: center;
+        justify-content: center;
         text-align: center;
     }
 
     .hero-content {
         width: 100%;
         max-width: 100%;
-        margin: 0 auto;
-    }
-
-    .hero .intro {
-        font-size: 13px;
-        margin-bottom: 15px;
     }
 
     .profile-photo img {
-        width: 110px;
-        height: 110px;
+        width: 125px;
+        height: 125px;
         object-fit: cover;
         border-radius: 50%;
     }
 
     .hero h1 {
-        font-size: 27px;
+        font-size: 28px;
         line-height: 1.4;
-        margin: 15px 0;
     }
 
     .hero h3 {
         font-size: 16px;
         line-height: 1.6;
-        margin-bottom: 15px;
     }
 
-    .hero .hero-description {
+    .hero-description {
         font-size: 14px;
         line-height: 1.8;
         max-width: 100%;
-        margin: 0 auto 20px;
+        margin: 15px auto;
     }
 
     .hero-buttons {
@@ -638,5 +638,62 @@ color: white;
     .hero-buttons .btn {
         font-size: 14px;
         padding: 12px 16px;
+    }
+
+    /* General Sections */
+    .section {
+        padding: 45px 18px;
+        box-sizing: border-box;
+    }
+
+    .section h2 {
+        font-size: 25px;
+        line-height: 1.4;
+    }
+
+    /* Skills Cards */
+    .skills-container,
+    .skills-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    /* Project Cards */
+    .projects-container,
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 18px;
+    }
+
+    .project-card {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    /* Text Readability */
+    .section p,
+    .project-card p {
+        font-size: 14px;
+        line-height: 1.8;
+    }
+
+    /* Buttons */
+    .btn {
+        min-height: 40px;
+        box-sizing: border-box;
+    }
+
+    /* Contact Section */
+    #contact {
+        padding: 40px 18px;
+        overflow-wrap: anywhere;
+    }
+
+    /* Footer */
+    footer {
+        font-size: 12px;
+        padding: 15px 10px;
+        text-align: center;
     }
 }
