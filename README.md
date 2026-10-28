@@ -1,16 +1,17 @@
-# 🎨 Pixora – Website UI Design
+# 💻 Personal Portfolio Website
 
 ## 📌 About the Project
 
-Pixora is a modern website UI design project developed using HTML, CSS, and JavaScript. The project focuses on creating an attractive interface, interactive elements, and a user-friendly browsing experience.
+Welcome to my personal portfolio website! This website showcases my profile, technical skills, academic projects, and career objectives. It is designed to present my web development journey and provide an easy way to connect with me.
 
 ## ✨ Features
 
-* 🎨 Attractive and modern user interface
-* 💻 Clean and organized website layout
-* 📱 Responsive design for different screen sizes
-* ⚡ Interactive elements using JavaScript
-* 🌐 Front-end web development
+* 👩‍💻 Personal introduction and profile
+* 🛠️ Technical skills showcase
+* 📂 Projects section featuring my academic and web development projects
+* 📱 User-friendly website layout
+* 📧 Contact information
+* 🔗 GitHub and LinkedIn profile links
 
 ## 🛠️ Technologies Used
 
@@ -18,38 +19,37 @@ Pixora is a modern website UI design project developed using HTML, CSS, and Java
 * CSS3
 * JavaScript
 
-## 📂 Project Structure
+## 📂 Projects Featured
 
-```text
-Pixora/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
+### 1. Student Performance Prediction
 
-## 🚀 How to Run the Project
+An academic machine learning project exploring student performance prediction using Python and a dataset.
 
-1. Clone or download this repository.
-2. Open the project folder in Visual Studio Code.
-3. Open `index.html` in your browser.
-4. Explore the Pixora website.
+**Technologies:** Python, Jupyter Notebook, Machine Learning
 
-## 🎯 Learning Outcomes
+### 2. Pixora – Website UI Design
 
-* Improved front-end development skills.
-* Practiced website styling and layout design.
-* Learned to create interactive web elements.
-* Gained experience in organizing website files.
+A front-end website design project focused on creating an attractive interface using HTML, CSS, and JavaScript.
 
-## 👩‍💻 Developer
+**Technologies:** HTML, CSS, JavaScript
 
-**Kondipudi Durga Bhavani**
+## 🚀 Live Website
 
-* 📧 Email: [kodipudidurgabhavani@gmail.com](mailto:kodipudidurgabhavani@gmail.com)
-* 💻 GitHub: [priyakondipudi-commits](https://github.com/priyakondipudi-commits)
-* 🔗 LinkedIn: [Kondipudi Durga Bhavani](https://www.linkedin.com/in/kondipudi-durga-bhavani-6a743a348)
+Explore my portfolio website:
+
+[Visit My Portfolio](https://priyakondipudi-commits.github.io/MyPortfolio/)
+
+## 👩‍💻 About Me
+
+I am an Artificial Intelligence and Data Science student passionate about web development, Python, and technology. I enjoy building projects, learning new skills, and improving my problem-solving abilities.
+
+## 📬 Contact Me
+
+* **Email:** [kodipudidurgabhavani@gmail.com](mailto:kodipudidurgabhavani@gmail.com)
+* **GitHub:** https://github.com/priyakondipudi-commits
+* **LinkedIn:** https://www.linkedin.com/in/kondipudi-durga-bhavani-6a743a348
 
 ---
 
-⭐ If you like this project, feel free to explore my GitHub profile!
+⭐ Thank you for visiting my portfolio!
+
